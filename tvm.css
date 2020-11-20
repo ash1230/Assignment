@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* navigation */
+.nav{
+    margin-top: 0px;
+    background-color: #118821;
+    padding: 9px;
+
+}
+.nav a{
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+    font-weight: bold;
+}
+.nav a:hover{
+    background-color:white ;
+    color:rgb(9, 9, 94);
+    text-decoration: none;
+    transition: 0.5s ease-in-out;
+}
+.carousel-item{
+    width: 100px;
+    height: 400px;
+    /* margin-left: 20px; */
+}
+.carousel-caption d-none d-md-block{
+    color: black;
+}
+.content{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.content h5{
+    text-align: center;
+    font: bold 30px "times new roman";
+    color: rgb(4, 73, 4);
+    letter-spacing: 2px;
+
+}
+.sub h6{
+    font: bold 20px "times new roman";
+    color: rgb(0, 0, 0);
+    letter-spacing: 1px;
+    
+}

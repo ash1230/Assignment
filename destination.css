@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* header section */
+
+header{
+    background-color:black;
+    height: 5em;
+}
+img{
+    margin-left: 14px;
+    margin-top: 2px;
+}
+.head-tag{
+    float: right;
+    margin-top: 44px;
+    margin-right: 50px;
+}
+.head-tag a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 9px;
+}
+.head-tag a:hover{
+    background-color:#44c508 ;
+    color: black;
+    text-decoration: none;
+    transition: 0.5s ease-in-out;
+}
+.myMargin{
+    margin: 20px;
+}
+
+.sub-head{
+    font: bold 50px "Trebuchet MS"  ;
+    text-align: center;
+   
+}
+/* body */
+.des h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+.des p{
+    margin-left:  20px;
+    margin-right: 20px;
+    text-align: justify;
+}
